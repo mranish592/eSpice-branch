@@ -1,0 +1,6 @@
+#include<iostream.h>
+int ptr* sq(char *ptr)
+{
+  *ptr*=*ptr;
+  return *ptr;
+}
